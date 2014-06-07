@@ -23,3 +23,12 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 *    Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 *    Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
+Code to generate the required graphics on Project1 assumes the original household_power_consumption.txt file is available at "WORKING DIRECTORY" and the output .png file will be written at the same directory (Working Directory).
+
+Code and output files are:
+
+* input file: household_power_consumption.txt
+* code: plot1.R   output file: plot1.png
+* code: plot2.R   output file: plot2.png
+* code: plot3.R   output file: plot3.png
+* code: plot4.R   output file: plot4.png
